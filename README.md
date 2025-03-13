@@ -15,7 +15,7 @@ Aplicación web sencilla para organizar un sorteo de "Amigo Secreto". Los usuari
 1. **Clonar el repositorio**  
    ```sh
    git clone https://github.com/kamimefis/secret-friend.git
-   cd amigo-secreto 
+   cd secret-friend 
 2. **Abrir el archivo** `index.html` en tu navegador.
 
 ## 🚀 Prueba el proyecto en el siguiente enlace:
