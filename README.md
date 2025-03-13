@@ -1,4 +1,4 @@
-<em> # 🎁 Alura Challenge: Amigo Secreto </em>
+## 🎁 Alura Challenge: Amigo Secreto
 
 Aplicación web sencilla para organizar un sorteo de "Amigo Secreto". Los usuarios pueden agregar nombres a una lista y sortear aleatoriamente un nombre como resultado.
 
